@@ -27,8 +27,7 @@ public class lab1 {
         System.out.println("Кол-во шагов = " + stepsCount + '\n');
     }
 
-    public static void secondTask()
-    {
+    public static void secondTask() {
         System.out.println("Вторая задача");
 
         Scanner in = new Scanner(System.in);
